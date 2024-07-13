@@ -18,7 +18,7 @@ I developed a personal portfolio website using HTML, CSS, JavaScript, and React.
 
 
 ### Tabletview
-![tabletview](https://github.com/CodeNik07/react-personal-portfolio/blob/main/public/tabletiew.PNG)
+![tabletview](https://github.com/CodeNik07/react-personal-portfolio/blob/main/public/tabletview.PNG)
 
 
 ### Mobileview
