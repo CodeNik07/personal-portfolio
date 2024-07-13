@@ -49,11 +49,8 @@ export default function NavBar() {
                         <div className="social-icon">
                             <a href="https://www.linkedin.com/in/nikunj-jadav-8a174a24b/"><img src={navIcon1} alt="" /></a>
 
-                            <a href="https://github.com/CodeNik07"><FaGithub color='white'/> </a>
+                            <a href="https://github.com/CodeNik07"><FaGithub color='white' /> </a>
                         </div>
-                        {/* <HashLink to='#connect'>
-                            <button className="vvd"><span>Let’s Connect</span></button>
-                        </HashLink> */}
                     </span>
                 </Navbar.Collapse>
             </Container>
